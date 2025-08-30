@@ -1,11 +1,10 @@
-# Last-try
 # ✨ Tech with a Touch of Innovation ⚡
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&color=00C9A7&width=500&lines=Hi+there%2C+I'm+NandhaGopal+%F0%9F%92%99;Electronics+%26+AI+Enthusiast;Developer+%7C+Innovator+%7C+Learner" alt="Typing SVG" />
 </h1>
 
-<img align="right" width="300" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="300" height="220" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGV3anlqMmo3eThub3JjNXR0NXFqNjkxc3FxbmJocjhqNjU0aTA5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)">
 
 🎓 B.Tech - Electronics & Communication Engineering (ECE)  
 💻 Passionate about **Electronics, AI, and Web Development**  
