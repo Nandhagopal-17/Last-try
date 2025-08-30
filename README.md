@@ -25,7 +25,7 @@
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/nandhagopal17)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandhagopal-v-92772b293/)
 [![Email](https://img.shields.io/badge/Gmail-nandhagopal@example.com-red?logo=gmail&logoColor=white)](mailto:vishnunandhu2003@gmail.com)  
 
 ---
